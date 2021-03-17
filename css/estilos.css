@@ -6,6 +6,21 @@ body{
     
 }
 
+#cabecera{
+    background: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.75);
+    color: white;
+    margin: 0;
+    font-weight: bold;
+    padding: 0.5em;
+}
+
+#cabecera{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 #container{
     width: 70%;
     padding: 1em;
@@ -16,5 +31,9 @@ body{
 
 #container h1{
     font-size: 90%;
+}
+
+#post{
+    padding: 1em;
 }
 
