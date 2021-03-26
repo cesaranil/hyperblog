@@ -2,3 +2,4 @@
 
 Creado por @Cesaranil8
 Ejemplo en Windows porque no tengo MAC jajaj
+Disponible para todos
